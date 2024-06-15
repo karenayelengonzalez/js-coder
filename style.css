@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aquamarine;
+    font-size: xx-large;
+}
+.tituloPrincipal h2{
+ display: flex;
+justify-content: center;
+align-content: center;
+}
